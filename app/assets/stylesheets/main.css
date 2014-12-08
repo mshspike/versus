@@ -1,0 +1,50 @@
+body {
+    font-size: 15px;
+    padding-top: 70px;
+}
+
+.container {
+    width: 90%;
+    text-align: center;
+}
+
+.inner-container {
+    text-align: left;
+}
+
+.item-field {
+    border: none;
+    border-bottom: solid 1px #2563AB;
+    background: transparent;
+    text-align: center;
+    font-size: 18px;
+}
+
+.item-field:focus {
+    outline: none;
+}
+
+.header {
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+    overflow: scroll;
+}
+
+table.comparable {
+    width: 100%;
+}
+
+#vs {
+    font-family: merienda-one, cursive;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 37px;
+}
+
+#vs:hover { text-decoration: none; }
+#vs:active { text-decoration: none; }
+
+#pname {
+    width: 20%;
+}

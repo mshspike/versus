@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+sonyx1:
+  name: Sony Xperia Z1
+  url: 
+
+htconem8:
+  name: HTC One M8
+  url: 
+
+potato:
+  name: potato
+  url: 
